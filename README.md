@@ -70,3 +70,8 @@ services:
 |[sprockets](https://rubygems.org/gems/sprockets/versions/3.7.2)|Sprockets es un sistema de empaquetado de activos basado en Rack que concatena y sirve JavaScript, CoffeeScript, CSS, LESS, Sass y SCSS.|
 |[jwt](https://rubygems.org/gems/jwt)|Una implementación puramente rubí del estándar RFC 7519 OAuth JSON Web Token (JWT).|
 
+`lifestyle-client` es un cliente hecho en `gatsby.js` un framework de `react.js` que permite contruir sitios
+web modernos.
+
+La comunicación entre estos dos lados es mediante `http` conectandose mediante la `API` nativa de `Javascript, fetch()`.
+
